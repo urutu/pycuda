@@ -14,7 +14,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 ```shell
-$ git clone https://github.com/adityaatluri/pycuda.git
+$ git clone https://github.com/urutu/pycuda.git
 $ cd pycuda
 $ python configure.py \
     --cuda-root=/where/ever/you/installed/cuda
@@ -27,7 +27,7 @@ Note for Linux Users
 
 Installing using Python 2
 ```shell
-$ git clone https://github.com/adityaatluri/pycuda.git
+$ git clone https://github.com/urutu/pycuda.git
 $ cd pycuda
 $ python configure.py \
     --cuda-root=/where/ever/you/installed/cuda
@@ -36,7 +36,7 @@ $ sudo make install
 
 Installing using Python 3
 ```shell
-$ git clone https://github.com/adityaatluri/pycuda.git
+$ git clone https://github.com/urutu/pycuda.git
 $ cd pycuda
 $ python3 configure.py \
     --cuda-root=/where/ever/you/installed/cuda
